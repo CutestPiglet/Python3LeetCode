@@ -1,5 +1,7 @@
-# 104, https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
+#### Problem
+No. 104: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
 
+#### Code
 ```python
 # Definition for a binary tree node.
 # class TreeNode:

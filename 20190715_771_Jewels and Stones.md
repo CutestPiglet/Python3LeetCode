@@ -1,5 +1,7 @@
-# 771, https://leetcode.com/problems/jewels-and-stones/submissions/
+#### Problem
+No. 771: https://leetcode.com/problems/jewels-and-stones/submissions/
 
+#### Code
 ```python
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:

@@ -1,5 +1,7 @@
-# 617, https://leetcode.com/problems/merge-two-binary-trees/submissions/
+#### Problem
+No. 617: https://leetcode.com/problems/merge-two-binary-trees/submissions/
 
+#### Code
 ```python
 # Definition for a binary tree node.
 # class TreeNode:
