@@ -1,5 +1,5 @@
 #### Problem
-No. 617: https://leetcode.com/problems/merge-two-binary-trees/submissions/
+No. 617: https://leetcode.com/problems/merge-two-binary-trees/
 
 #### Code
 ```python

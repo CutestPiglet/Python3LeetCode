@@ -1,5 +1,5 @@
 #### Problem
-No. 771: https://leetcode.com/problems/jewels-and-stones/submissions/
+No. 771: https://leetcode.com/problems/jewels-and-stones/
 
 #### Code
 ```python
