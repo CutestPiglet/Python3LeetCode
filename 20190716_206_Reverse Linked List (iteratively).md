@@ -11,13 +11,13 @@ No. 206: https://leetcode.com/problems/reverse-linked-list/
 
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
-        result = None
+        previous = None
         
         while head:
-            temp = result
-            result = head
-            head = head.next
-            result.next = temp
+            temp = head.next
+            head.next = previous
+            previous = head
+            head = temp
             
-        return result
+        return previous
 ```
